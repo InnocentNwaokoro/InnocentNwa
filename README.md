@@ -27,10 +27,11 @@ The dataset used in this project, titled "HCV Data", is publicly available from 
 
 ## Exploratory Data Analysis (EDA) Questions
 1. What is the distribution of age among the different categories?
-2. How do ALT and AST levels vary across categories?
-3. What is the correlation between ALT and Bilirubin levels?
-4. What is the gender distribution among Hepatitis C patients and blood donors?
-5. How do cholesterol levels vary with age?
+age_distribution_by_category.png
+3. How do ALT and AST levels vary across categories?
+4. What is the correlation between ALT and Bilirubin levels?
+5. What is the gender distribution among Hepatitis C patients and blood donors?
+6. How do cholesterol levels vary with age?
 
 ## Data Analysis
 ```python
