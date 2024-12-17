@@ -2,7 +2,22 @@
 ---
 ## Analyzing Laboratory and Demographic Data to Predict Hepatitis C Risk Factors
 ---
-## Introduction
+## Table of contents
+---
+- [Project Overview](#project-Overview)
+- [Dataset Source](#dataset-Source)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-Cleaning-and-Preparation)
+- [Exploratory Data Analysis (EDA) Questions](#exploratory-Data-Analysis-(EDA)-Questions)
+- [Data Analysis](#Data-Analysis)
+- [Analysis of Results](#Analysis-of-Results)
+- [Recommendations](#Recommendations)
+- [Conclusion and Future Actions](#Conclusion-and-Future-Actions)
+- [Reference](#Reference)
+---
+
+## Project Overview
+---
 This project aims to explore and analyze a dataset containing demographic information and laboratory test results for blood donors and Hepatitis C patients. Hepatitis C is a significant global health issue, and understanding its risk factors through data analysis can lead to early detection, better management, and prevention strategies.
 
 The project's objectives are to:
@@ -129,5 +144,7 @@ __Implication:__
 
 ## Conclusion and Future Actions
 The analysis highlights critical patterns that can guide preventive strategies and diagnostic protocols for Hepatitis C. By integrating the recommendations, healthcare providers can enhance early detection, reduce disease progression, and tailor interventions to high-risk groups. Future actions should focus on predictive modeling, public health initiatives, and addressing the limitations in dataset representativeness
+
+## Reference
 
 
