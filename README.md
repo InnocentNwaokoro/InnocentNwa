@@ -1,3 +1,4 @@
+---
 # Project Title
 ---
 ## Analyzing Laboratory and Demographic Data to Predict Hepatitis C Risk Factors
@@ -146,5 +147,12 @@ __Implication:__
 The analysis highlights critical patterns that can guide preventive strategies and diagnostic protocols for Hepatitis C. By integrating the recommendations, healthcare providers can enhance early detection, reduce disease progression, and tailor interventions to high-risk groups. Future actions should focus on predictive modeling, public health initiatives, and addressing the limitations in dataset representativeness
 
 ## Reference
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/571/hcv+data)
 
+[Infectious Disease Research - Understand Infectious Diseases](https://www.revvity.com/ca-en/category/infectious-disease-research?utm_source=google&utm_medium=cpc&utm_campaign=LSC-IFD-2024-USCAN-PaidSearch-SCH-EGM-ZZ&sfdc_id=7014V000000nD9kQAE&ls=ppc&adgroup=146614709439&ad=657681145621&keyword=infectious%20disease%20testing&placement=&gad_source=1&gclid=CjwKCAiA34S7BhAtEiwACZzv4dph2kkjC2riSP6_t6l1SaqIKny-Gfc8bbSfI_DQigODmneY64D7GxoCGacQAvD_BwE)
 
+[Patient experience analytics](https://www.medallia.com/solutions/healthcare/?source=Marketing%20-%20Paid%20Search&utm_campaign=medallia_noram_vertical-healthcare&utm_source=google-ads&utm_medium=text-ad&utm_content=solutions-healthcare&utm_term=patient%20experience%20analytics_b_g_c_699770829261&gad_source=1&gclid=CjwKCAiA34S7BhAtEiwACZzv4eR1v0ELJyBPwc94JqXWkh94Ey8ciEir0e_jG-U5nraSuk7T11DqmhoCKUgQAvD_BwE)
+
+[Risk factors and genotype distribution of hepatitis C virus](https://pmc.ncbi.nlm.nih.gov/articles/PMC8782338/)
+
+---
