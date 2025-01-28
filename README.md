@@ -44,6 +44,7 @@ The dataset used in this project, titled "HCV Data", is publicly available from 
 ## Exploratory Data Analysis (EDA) Questions
 1. What is the distribution of age among the different categories?
 ![age_distribution_by_category](https://github.com/user-attachments/assets/7122595c-73f4-47fb-bd21-bd3dd49dc448)
+
 **Analysis:**
 
 The age distribution reveals that:
@@ -53,6 +54,7 @@ The age distribution reveals that:
 
 2. How do ALT and AST levels vary across categories?
 ![alt_levels_by_category](https://github.com/user-attachments/assets/e1c4f539-32d4-44a2-a2c7-d8bd7f47097a)
+
 **Analysis:**
 
 The chart shows that blood donors generally exhibit lower and stable Alanine transaminase and Aspartate aminotransferase levels, with values clustered within the normal range. In contrast, Hepatitis C patients show a wider distribution for both markers, with significantly elevated ALT levels reflecting liver damage and higher AST levels indicating ongoing liver inflammation or injury, including several outliers
@@ -78,6 +80,7 @@ Blood Donors:
 
 5. What is the gender distribution across different diagnostic categories?
 ![gender_distribution_by_category](https://github.com/user-attachments/assets/f48ed843-1f0b-4d18-a5bc-318e78195327)
+
 **Analysis:**
 
 The gender distribution chart shows that males dominate the Blood Donor group, with over 300 males compared to around 200 females. In disease categories such as Hepatitis, Fibrosis, and Cirrhosis, males are more prevalent, indicating a possible higher exposure to risk factors or other underlying causes. Additionally, the Suspect Blood Donor category has very few individuals, mostly males. This suggests a gender imbalance in both blood donation and the prevalence of liver-related conditions
