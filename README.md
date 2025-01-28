@@ -50,7 +50,7 @@ The dataset used in this project, titled "HCV Data", is publicly available from 
 The age distribution reveals that:
 - Blood Donors: The majority are younger individuals, concentrated in the 20–40 age group.
 - Hepatitis C Patients: They tend to be older, with a significant portion over 50 years old.
-- **This aligns with the medical understanding that older populations are more prone to chronic illnesses like Hepatitis C due to cumulative risk factors over time**
+-This aligns with the medical understanding that older populations are more prone to chronic illnesses like Hepatitis C due to cumulative risk factors over time
 
 2. How do ALT and AST levels vary across categories?
 ![alt_levels_by_category](https://github.com/user-attachments/assets/e1c4f539-32d4-44a2-a2c7-d8bd7f47097a)
@@ -61,21 +61,26 @@ The chart shows that blood donors generally exhibit lower and stable Alanine tra
 
 4. What is the correlation between ALT and Bilirubin levels?
 ![ast_levels_by_category](https://github.com/user-attachments/assets/04d584f0-70f8-4c98-9b09-a0f564296c9e)
+
 **Analysis:**
 
 There is a positive correlation between ALT and Bilirubin levels, particularly in the Hepatitis C category.
 Blood donors generally cluster in the lower-left region, with low ALT and Bilirubin levels.
 Hepatitis C patients are spread across a broader range, with higher ALT and Bilirubin values. This indicates that as liver enzymes (ALT) increase due to liver damage, Bilirubin levels also rise, reflecting impaired liver function.
+
 **This chart confirms that ALT and Bilirubin levels are important diagnostic markers for liver conditions like Hepatitis C.**
 
 6. What is the gender distribution among Hepatitis C patients and blood donors?
 ![correlation_alt_bilirubin](https://github.com/user-attachments/assets/4a8adce6-0522-47b8-98f3-6e503a0c51b7)
+
 **Analysis:**
 
 Blood Donors:
 - The distribution between males and females is relatively balanced, with a slight male majority.
+
 **Hepatitis C Patients:**
  - A larger proportion of Hepatitis C patients are males compared to females.
+
 **This could reflect gender-based differences in risk exposure, such as behavioral factors or occupational risks, and warrants further investigation to understand the underlying causes.**
 
 5. What is the gender distribution across different diagnostic categories?
